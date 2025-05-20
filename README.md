@@ -15,8 +15,8 @@
    - Build the page layout with  HTML.
 
 5.  **Style it While Learning CSS**  
-   - Learn by doing typa shiiiiiiii 😤
+   - Learn by doing typa shiiiiiiii 
 
-6.  **Switch to the Love of My Life (React)**  
+6.  **Switch to React**  
    - Break it into components and level up the code.
 
